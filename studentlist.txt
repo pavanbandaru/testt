@@ -1,3 +1,5 @@
 john
 mike
 peter
+sid
+lora
